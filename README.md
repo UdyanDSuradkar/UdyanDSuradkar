@@ -1,48 +1,58 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<h1 align="center">✨ Udyan Suradkar ✨</h1>
+<h3 align="center">Turning code into creativity. Passionate about 3D, the web, and the space where they collide 🌌</h3>
 
 <p align="center">
-  <a href="https://github.com/[your-username]">
-    <img src="https://img.shields.io/github/followers/[your-username]?label=Follow&style=social" alt="GitHub Badge"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFD1&center=true&vCenter=true&width=435&lines=Frontend+Craftsman+%F0%9F%92%BB;Three.js+Explorer+%F0%9F%9A%80;React+%2B+Vite+%3D+Love;Let's+Build+the+Web+in+3D!" alt="Typing SVG" />
 </p>
-
-- 🔭 I’m currently working on **[Your Project Name]**  
-- 🌱 I’m currently learning **Three.js, React Three Fiber, and WebGL**  
-- 👯 I’m looking to collaborate on **open-source web 3D projects**  
-- 💬 Ask me about **JavaScript, React, Vite, or Three.js**  
-- 📫 How to reach me: **[your-email]**  
-- ⚡ Fun fact: I can visualize data in 3D better than in Excel 😄  
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🧠 About Me
+
+- 🎨 I love creating **visually stunning web experiences**.
+- 🧱 Currently experimenting with **Three.js** to build interactive 3D apps.
+- ⚙️ Favorite tools: `Vite`, `React`, `Three.js`, `Tailwind`, `GSAP`.
+- 🛠️ Building: a `three-demo` repo to showcase multiple Three.js setups.
+- 🌐 I believe the web is an art form — and code is my brush.
+
+---
+
+### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,threejs,html,css,tailwind,figma,git,github,linux,nodejs" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight" alt="[your-username]'s GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalrajnoor&theme=radical" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalrajnoor&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
+### 🛸 Featured Projects
+
+🚀 [**three-demo**](https://github.com/harshalrajnoor/three-demo) — 3 ways to work with Three.js (Basic, Vite, Vite + React)
+
+🧩 [**Edumo**](https://github.com/harshalrajnoor/Edumo) — Academic portfolio builder & achievement showcase
+
+🎮 [**React Mini Games**](#) *(coming soon)* — A collection of web-based fun using React + GSAP
+
+---
+
+### 💌 Let's Connect!
 
 <p>
-  <a href="https://www.linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red"></a>
+  <a href="mailto:harshalrajnoor852056@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harshal-rajnoor/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a>
+  <a href="https://github.com/harshalrajnoor"><img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+> “Code is not just logic — it’s expression. Make it elegant.” — *Me, probably*
