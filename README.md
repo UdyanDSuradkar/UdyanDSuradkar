@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalrajnoor&theme=radical" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalrajnoor&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdyanDSuradkar&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
