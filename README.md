@@ -48,7 +48,7 @@
 
 <p>
   <a href="mailto:suradkarudyan18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://https://www.linkedin.com/in/udyan-suradkar-210138203/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a>
+  <a href="https://www.linkedin.com/in/udyan-suradkar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a>
   <a href="https://github.com/UdyanDSuradkar"><img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
