@@ -28,7 +28,7 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalrajnoor&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UdyanDSuradkar&theme=radical" alt="Streak Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdyanDSuradkar&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
@@ -37,20 +37,20 @@
 
 ### 🛸 Featured Projects
 
-🚀 [**three-demo**](https://github.com/harshalrajnoor/three-demo) — 3 ways to work with Three.js (Basic, Vite, Vite + React)
+🚀 [**three-demo**](https://github.com/UdyanDSuradkar/three-demo) — 3 ways to work with Three.js (Basic, Vite, Vite + React)
 
-🧩 [**Edumo**](https://github.com/harshalrajnoor/Edumo) — Academic portfolio builder & achievement showcase
+<!--🧩 [**Edumo**](https://github.com/UdyanDSuradkar/Edumo) — Academic portfolio builder & achievement showcase
 
-🎮 [**React Mini Games**](#) *(coming soon)* — A collection of web-based fun using React + GSAP
+🎮 [**React Mini Games**](#) *(coming soon)* — A collection of web-based fun using React + GSAP -->
 
 ---
 
 ### 💌 Let's Connect!
 
 <p>
-  <a href="mailto:harshalrajnoor852056@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/harshal-rajnoor/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a>
-  <a href="https://github.com/harshalrajnoor"><img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:suradkarudyan18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://https://www.linkedin.com/in/udyan-suradkar-210138203//"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a>
+  <a href="https://github.com/UdyanDSuradkar"><img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 ---
