@@ -23,14 +23,10 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,threejs,html,css,tailwind,figma,git,github,linux,nodejs" />
 </p>
 
-### 📊 GitHub Insights
+### 🌱 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdyanDSuradkar&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Udyan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdyanDSuradkar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UdyanDSuradkar&theme=react-dark&area=true" />
 </p>
 
 
