@@ -23,11 +23,12 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,threejs,html,css,tailwind,figma,git,github,linux,nodejs" />
 </p>
 
-### 🌱 Contribution Graph
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UdyanDSuradkar&theme=react-dark&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UdyanDSuradkar&theme=radical&no-frame=true&row=1&margin-w=15" />
 </p>
+
 
 
 ### 🛸 Featured Projects
