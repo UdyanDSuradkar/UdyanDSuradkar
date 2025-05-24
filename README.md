@@ -23,16 +23,16 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,threejs,html,css,tailwind,figma,git,github,linux,nodejs" />
 </p>
 
----
-
-### 🔥 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UdyanDSuradkar&theme=radical" alt="Streak Stats" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UdyanDSuradkar&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Udyan's GitHub stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdyanDSuradkar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ### 🛸 Featured Projects
 
