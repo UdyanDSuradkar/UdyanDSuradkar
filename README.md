@@ -23,14 +23,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,threejs,html,css,tailwind,figma,git,github,linux,nodejs" />
 </p>
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UdyanDSuradkar&theme=radical&no-frame=true&row=1&margin-w=15" />
-</p>
-
-
-
 ### 🛸 Featured Projects
 
 🚀 [**three-demo**](https://github.com/UdyanDSuradkar/three-demo) — 3 ways to work with Three.js (Basic, Vite, Vite + React)
