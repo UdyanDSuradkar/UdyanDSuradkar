@@ -1,4 +1,4 @@
-<h1 align="center">✨ Udyan Suradkar ✨</h1>
+<h1 align="center"> Udyan Suradkar </h1>
 <h3 align="center">Turning code into creativity. Passionate about 3D, the web, and the space where they collide 🌌</h3>
 
 ---
