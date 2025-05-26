@@ -42,5 +42,3 @@
 </p>
 
 ---
-
-> “Code is not just logic — it’s expression. Make it elegant.” — *Me, probably*
