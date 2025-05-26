@@ -1,10 +1,6 @@
 <h1 align="center">✨ Udyan Suradkar ✨</h1>
 <h3 align="center">Turning code into creativity. Passionate about 3D, the web, and the space where they collide 🌌</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFD1&center=true&vCenter=true&width=435&lines=Frontend+Craftsman+%F0%9F%92%BB;Three.js+Explorer+%F0%9F%9A%80;React+%2B+Vite+%3D+Love;Let's+Build+the+Web+in+3D!" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧠 About Me
