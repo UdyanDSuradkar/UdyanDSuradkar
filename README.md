@@ -16,7 +16,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,threejs,html,css,tailwind,figma,git,github,linux,nodejs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,threejs,html,css,tailwind,git,github,nodejs,c++,java,mysql" />
 </p>
 
 ### 🛸 Featured Projects
