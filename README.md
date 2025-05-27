@@ -21,11 +21,11 @@
 
 ### 🛸 Featured Projects
 
-🚀 [**three-demo**](https://github.com/UdyanDSuradkar/three-demo) — 3 ways to work with Three.js (Basic, Vite, Vite + React)
+[**three-demo**](https://github.com/UdyanDSuradkar/three-demo) — 3 ways to work with Three.js (Basic, Vite, Vite + React)
 
-<!--🧩 [**Edumo**](https://github.com/UdyanDSuradkar/Edumo) — Academic portfolio builder & achievement showcase
+[**know-covid**](https://github.com/UdyanDSuradkar/know-covid) — Covid-19 info and statistics
 
-🎮 [**React Mini Games**](#) *(coming soon)* — A collection of web-based fun using React + GSAP -->
+[**Flyora**](https://github.com/UdyanDSuradkar/know-covid) — A Travel agency website
 
 ---
 
