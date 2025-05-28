@@ -21,8 +21,6 @@
 
 ### 🛸 Featured Projects
 
-[**three-demo**](https://github.com/UdyanDSuradkar/three-demo) — 3 ways to work with Three.js (Basic, Vite, Vite + React)
-
 [**know-covid**](https://github.com/UdyanDSuradkar/know-covid) — Covid-19 info and statistics
 
 [**Flyora**](https://github.com/UdyanDSuradkar/flyora-travel-agency) — A Travel agency website
