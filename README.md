@@ -8,8 +8,6 @@
 - 🎨 I love creating **visually stunning web experiences**.
 - 🧱 Currently experimenting with **Three.js** to build interactive 3D apps.
 - ⚙️ Favorite tools: `Vite`, `React`, `Three.js`, `Tailwind`, `GSAP`.
-- 🌐 I believe the web is an art form — and code is my brush.
-
 ---
 
 ### 🧰 Tech Stack
