@@ -20,7 +20,7 @@
 
 [**know-covid**](https://github.com/UdyanDSuradkar/know-covid) — Covid-19 info and statistics
 
-[**Flyora**](https://github.com/UdyanDSuradkar/flyora-travel-agency) — A Travel agency website
+[**Flyora**](https://github.com/UdyanDSuradkar/travel-agency-dashboard) — A Travel agency website
 
 ---
 
