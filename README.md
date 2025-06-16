@@ -13,7 +13,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,git,github,nodejs,cpp,java,mysql,postgresql,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,git,github,nodejs,cpp,java,php,mysql,postgresql,bootstrap" />
 </p>
 
 ### 🛸 Featured Projects
