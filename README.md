@@ -1,13 +1,5 @@
 <h1 align="center"> Udyan Suradkar </h1>
-<h3 align="center">Turning code into creativity. Passionate about 3D, the web, and the space where they collide 🌌</h3>
 
----
-
-### 🧠 About Me
-
-- 🎨 I love creating **visually stunning web experiences**.
-- 🧱 Currently experimenting with **Three.js** to build interactive 3D apps.
-- ⚙️ Favorite tools: `Vite`, `React`, `Three.js`, `Tailwind`, `GSAP`
 ---
 
 ### 🧰 Tech Stack
