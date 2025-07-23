@@ -5,7 +5,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,tailwind,git,github,nodejs,cpp,java,php,mysql,postgresql,prisma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,tailwind,git,github,nodejs,cpp,java,php,mysql,postgresql,prisma,supabase" />
 </p>
 
 ### 🛸 Featured Projects
