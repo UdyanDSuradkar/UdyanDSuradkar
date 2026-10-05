@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,ts,js,nodejs,tailwind,postgres,supabase,prisma,docker,git,github&perline=6" />
@@ -24,8 +23,6 @@
 <p align="center">
   <sub>React · Next.js · TypeScript · JavaScript · Node.js · Tailwind · PostgreSQL · Supabase · Prisma · Docker · Git</sub>
 </p>
-
----
 
 ## ✦ Selected Work
 
@@ -113,31 +110,12 @@ Backend systems · APIs · Databases · Infrastructure
 </tr>
 </table>
 
----
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdyanDSuradkar&layout=compact&hide_border=true&theme=transparent"
     height="165"
   />
-</p>
-
-
-## ✦ Let's Connect
-
-<p align="center">
-  <a href="https://uds-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/udyan-suradkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/UdyanDSuradkar">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:suradkarudyan18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <br/>
