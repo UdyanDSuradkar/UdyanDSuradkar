@@ -38,8 +38,6 @@
 
 ---
 
-## ✦ Selected Work
-
 <h2 align="center">✦ Selected Work</h2>
 
 <br/>
@@ -49,11 +47,7 @@
 
 <td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/01-DATA%20%26%20VISUALIZATION-111111?style=flat-square" />
-</p>
-
-<h3 align="center">🦠 Know Covid</h3>
+<h3 align="center">Know Covid</h3>
 
 <p align="center">
 Interactive COVID-19 data visualization platform.
@@ -73,21 +67,11 @@ Interactive COVID-19 data visualization platform.
   </sub>
 </p>
 
-<p align="center">
-  <a href="https://github.com/UdyanDSuradkar/know-covid">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
 </td>
 
 <td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/02-PRODUCT%20%26%20DASHBOARD-111111?style=flat-square" />
-</p>
-
-<h3 align="center">✈️ Flyora</h3>
+<h3 align="center">Flyora</h3>
 
 <p align="center">
 Modern travel agency dashboard and web experience.
@@ -107,12 +91,6 @@ Modern travel agency dashboard and web experience.
   </sub>
 </p>
 
-<p align="center">
-  <a href="https://github.com/UdyanDSuradkar/travel-agency-dashboard">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
 </td>
 
 </tr>
@@ -121,11 +99,7 @@ Modern travel agency dashboard and web experience.
 
 <td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/03-3D%20%26%20INTERACTION-111111?style=flat-square" />
-</p>
-
-<h3 align="center">🌌 3D Portfolio</h3>
+<h3 align="center">3D Portfolio</h3>
 
 <p align="center">
 Immersive portfolio experiment combining 3D, motion and interaction.
@@ -159,7 +133,7 @@ Immersive portfolio experiment combining 3D, motion and interaction.
   <img src="https://img.shields.io/badge/04-IN%20PROGRESS-111111?style=flat-square" />
 </p>
 
-<h3 align="center">🚧 What's Next?</h3>
+<h3 align="center">What's Next?</h3>
 
 <p align="center">
   Building more serious full-stack systems.
@@ -179,7 +153,7 @@ Immersive portfolio experiment combining 3D, motion and interaction.
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2200&pause=700&color=666666&center=true&vCenter=true&width=350&lines=building...;learning...;shipping..."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2200&pause=700&color=666666&center=true&vCenter=true&width=350&lines=building...;learning...;"
     alt="Currently building"
   />
 </p>
