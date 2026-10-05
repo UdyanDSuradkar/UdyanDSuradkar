@@ -1,80 +1,67 @@
-<!-- ===================== HERO ===================== -->
+<h1 align="center">Hey, I'm Udyan 👋</h1>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=UDYAN%20SURADKAR&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Builder&descAlignY=60&animation=twinkling&fontColor=ffffff&color=0:111111,50:242424,100:444444"
-    width="100%"
-  />
+  <strong>Software Engineer · Full-Stack Developer · Product Builder</strong>
 </p>
 
-<br/>
-
-<!-- ===================== TYPING ===================== -->
+<p align="center">
+  I build modern digital experiences where
+  <br/>
+  <strong>engineering meets design.</strong>
+</p>
 
 <p align="center">
   <a href="https://uds-portfolio.vercel.app/">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=888888&center=true&vCenter=true&width=760&lines=I+build+modern+web+experiences.;I+care+about+design+%2B+engineering.;Currently+building+full-stack+systems.;Always+learning.+Always+shipping."
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
-<br/>
-
-<!-- ===================== SOCIAL ===================== -->
-
-<p align="center">
-  <a href="https://uds-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/↗%20PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/udyan-suradkar/">
-    <img src="https://img.shields.io/badge/↗%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:suradkarudyan18@gmail.com">
-    <img src="https://img.shields.io/badge/✉%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UdyanDSuradkar&style=flat-square&color=111111" />
+</p>
 
-<!-- ===================== TECH STACK ===================== -->
+---
 
-<h2 align="center">⚡ Tech I Work With</h2>
+## ✦ About
+
+```text
+I like building things that feel good to use.
+
+From interactive frontends to full-stack applications,
+I'm interested in the entire journey:
+
+idea → interface → system → deployment
+```
+
+Currently focused on building stronger foundations in:
+
+**Full-Stack Development · Backend Engineering · Databases · DevOps**
+
+---
+
+## ⚡ My Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,ts,js,nodejs,tailwind,postgres,supabase,prisma,docker,git,github&perline=6" />
 </p>
 
 <p align="center">
-  <sub>
-    React · Next.js · TypeScript · JavaScript · Node.js · Tailwind · PostgreSQL · Supabase · Prisma · Docker
-  </sub>
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=1000&color=666666&center=true&vCenter=true&width=520&lines=frontend+%E2%86%92+backend+%E2%86%92+database+%E2%86%92+deployment"
-    alt="Development flow"
-  />
+  <sub>React · Next.js · TypeScript · JavaScript · Node.js · Tailwind · PostgreSQL · Supabase · Prisma · Docker · Git</sub>
 </p>
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-
-<h2 align="center">✦ Selected Work</h2>
-
-<br/>
+## ✦ Selected Work
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/01-DATA%20%26%20VISUALIZATION-111111?style=flat-square" />
-</p>
 
 <h3 align="center">🦠 Know Covid</h3>
 
@@ -83,201 +70,191 @@ Interactive COVID-19 data visualization platform.
 </p>
 
 <p align="center">
-  <a href="https://github.com/UdyanDSuradkar/know-covid">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=know-covid&theme=transparent&hide_border=true"
-    />
-  </a>
+<a href="https://github.com/UdyanDSuradkar/know-covid">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=know-covid&theme=transparent&hide_border=true" />
+</a>
 </p>
 
 <p align="center">
-  <sub>
-    World Map · Timelines · Comparison · Filtering · Data Visualization
-  </sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/UdyanDSuradkar/know-covid">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
+Interactive visualizations · World map · Timelines · Comparison · Filtering
 </p>
 
 </td>
 
 <td width="50%" valign="top">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/02-PRODUCT%20%26%20DASHBOARD-111111?style=flat-square" />
-</p>
 
 <h3 align="center">✈️ Flyora</h3>
 
 <p align="center">
-Modern travel agency dashboard and web experience.
+A modern travel agency dashboard and web experience.
 </p>
 
 <p align="center">
-  <a href="https://github.com/UdyanDSuradkar/travel-agency-dashboard">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=travel-agency-dashboard&theme=transparent&hide_border=true"
-    />
-  </a>
+<a href="https://github.com/UdyanDSuradkar/travel-agency-dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=travel-agency-dashboard&theme=transparent&hide_border=true" />
+</a>
 </p>
 
 <p align="center">
-  <sub>
-    React · TypeScript · Tailwind · Routing · Dashboard UI
-  </sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/UdyanDSuradkar/travel-agency-dashboard">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
+React · TypeScript · Tailwind · Routing · Dashboard UI
 </p>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/03-3D%20%26%20INTERACTION-111111?style=flat-square" />
-</p>
 
 <h3 align="center">🌌 3D Portfolio</h3>
 
 <p align="center">
-Immersive portfolio experiment combining 3D, motion and interaction.
+An immersive portfolio experiment combining 3D and motion.
 </p>
 
 <p align="center">
-  <a href="https://github.com/UdyanDSuradkar/my-portfolio">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=my-portfolio&theme=transparent&hide_border=true"
-    />
-  </a>
+<a href="https://github.com/UdyanDSuradkar/my-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=my-portfolio&theme=transparent&hide_border=true" />
+</a>
 </p>
 
 <p align="center">
-  <sub>
-    Three.js · React Three Fiber · GSAP · Tailwind
-  </sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/UdyanDSuradkar/my-portfolio">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
+Three.js · React Three Fiber · GSAP · Tailwind
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/04-IN%20PROGRESS-111111?style=flat-square" />
-</p>
-
-<h3 align="center">🚧 What's Next?</h3>
+<h3 align="center">🚧 More in Progress</h3>
 
 <p align="center">
-  Building more serious full-stack systems.
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,linux&perline=4" />
+More ambitious projects are being built.
 </p>
 
 <p align="center">
-  <sub>
-    APIs · Authentication · Databases · Infrastructure · DevOps
-  </sub>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,linux&perline=4" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2200&pause=700&color=666666&center=true&vCenter=true&width=350&lines=building...;learning...;shipping..."
-    alt="Currently building"
-  />
+Backend systems · APIs · Databases · Infrastructure
 </p>
 
 </td>
-
 </tr>
 </table>
 
-<br/>
+---
 
-<!-- ===================== LANGUAGES ===================== -->
+## ✦ What I Like Building
 
-<h2 align="center">◌ Languages & Tools</h2>
+<p align="center">
+
+`Interactive Interfaces`
+
+`Full-Stack Applications`
+
+`Data-Driven Products`
+
+`Animated Experiences`
+
+`Backend Systems`
+
+`Developer Tools`
+
+</p>
+
+---
+
+## ◌ A Little More About My Work
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 01
+
+**Interface**
+
+I care about hierarchy, motion, responsiveness and the small details users actually notice.
+
+</td>
+
+<td align="center" width="25%">
+
+### 02
+
+**Systems**
+
+I enjoy understanding what happens behind the interface: APIs, databases, authentication and architecture.
+
+</td>
+
+<td align="center" width="25%">
+
+### 03
+
+**Experience**
+
+A technically correct product can still feel lifeless. I like fixing that.
+
+</td>
+
+<td align="center" width="25%">
+
+### 04
+
+**Growth**
+
+Constantly learning better ways to build, ship and maintain software.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdyanDSuradkar&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=UdyanDSuradkar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
+    height="165"
   />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdyanDSuradkar&layout=compact&hide_border=true&theme=transparent"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=UdyanDSuradkar&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## ✦ Let's Connect
+
+<p align="center">
+  <a href="https://uds-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/udyan-suradkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/UdyanDSuradkar">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:suradkarudyan18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <br/>
 
-<!-- ===================== CONTRIBUTIONS ===================== -->
-
-<h2 align="center">✦ Contributions</h2>
-
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=UdyanDSuradkar&bg_color=00000000&color=666666&line=888888&point=111111&area=true&hide_border=true"
-    width="95%"
-  />
+  <sub>Building. Learning. Shipping.</sub>
 </p>
 
-<br/>
-
-<!-- ===================== SNAKE ===================== -->
-
-<h2 align="center">🐍 Contribution Trail</h2>
-
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/UdyanDSuradkar/UdyanDSuradkar/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/UdyanDSuradkar/UdyanDSuradkar/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution snake animation"
-      src="https://raw.githubusercontent.com/UdyanDSuradkar/UdyanDSuradkar/output/github-contribution-grid-snake.svg"
-      width="90%"
-    />
-  </picture>
-</p>
-
-<br/>
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=777777&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by.;Let's+build+something+interesting."
-    alt="Footer typing animation"
-  />
-</p>
-
-<br/>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:444444,50:242424,100:111111"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111111,100:444444" width="100%"/>
 </p>
