@@ -145,73 +145,7 @@ Backend systems · APIs · Databases · Infrastructure
 
 ---
 
-## ✦ What I Like Building
 
-<p align="center">
-
-`Interactive Interfaces`
-
-`Full-Stack Applications`
-
-`Data-Driven Products`
-
-`Animated Experiences`
-
-`Backend Systems`
-
-`Developer Tools`
-
-</p>
-
----
-
-## ◌ A Little More About My Work
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 01
-
-**Interface**
-
-I care about hierarchy, motion, responsiveness and the small details users actually notice.
-
-</td>
-
-<td align="center" width="25%">
-
-### 02
-
-**Systems**
-
-I enjoy understanding what happens behind the interface: APIs, databases, authentication and architecture.
-
-</td>
-
-<td align="center" width="25%">
-
-### 03
-
-**Experience**
-
-A technically correct product can still feel lifeless. I like fixing that.
-
-</td>
-
-<td align="center" width="25%">
-
-### 04
-
-**Growth**
-
-Constantly learning better ways to build, ship and maintain software.
-
-</td>
-</tr>
-</table>
-
----
 
 ## ✦ GitHub
 
@@ -226,11 +160,6 @@ Constantly learning better ways to build, ship and maintain software.
   />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=UdyanDSuradkar&theme=transparent&hide_border=true" />
-</p>
-
----
 
 ## ✦ Let's Connect
 
