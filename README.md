@@ -60,12 +60,6 @@
   Interactive visualizations · World map · Timelines · Comparison · Filtering
 </p>
 
-<p align="center">
-  <a href="https://github.com/UdyanDSuradkar/know-covid">
-    <img src="https://img.shields.io/badge/View%20Repository-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
 </td>
 
 <td width="50%" valign="top">
@@ -84,12 +78,6 @@
 
 <p align="center">
   React · TypeScript · Tailwind · Routing · Dashboard UI
-</p>
-
-<p align="center">
-  <a href="https://github.com/UdyanDSuradkar/travel-agency-dashboard">
-    <img src="https://img.shields.io/badge/View%20Repository-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
 </p>
 
 </td>
@@ -113,12 +101,6 @@
 
 <p align="center">
   Three.js · React Three Fiber · GSAP · Tailwind
-</p>
-
-<p align="center">
-  <a href="https://github.com/UdyanDSuradkar/my-portfolio">
-    <img src="https://img.shields.io/badge/View%20Repository-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
 </p>
 
 </td>
@@ -154,10 +136,6 @@
 </p>
 
 <br/>
-
-<p align="center">
-  <strong>Build something. Learn something. Ship something.</strong>
-</p>
 
 <p align="center">
   <img
