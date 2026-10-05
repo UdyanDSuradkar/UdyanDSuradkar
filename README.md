@@ -1,120 +1,260 @@
-<h1 align="center">Hi, I'm Udyan 👋</h1>
+<h1 align="center">Hey, I'm Udyan 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer • Full-Stack Developer • Builder</strong>
+  <strong>Software Engineer · Full-Stack Developer · Product Builder</strong>
 </p>
 
 <p align="center">
-  I build modern web applications with a strong focus on
-  <br />
-  clean interfaces, thoughtful interactions, and solid engineering.
+  I build modern digital experiences where
+  <br/>
+  <strong>engineering meets design.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/UdyanDSuradkar">
-    <img src="https://img.shields.io/github/followers/UdyanDSuradkar?label=Follow&style=flat" />
-  </a>
-  <a href="https://github.com/UdyanDSuradkar?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-black?style=flat" />
-  </a>
   <a href="https://uds-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/udyan-suradkar/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:suradkarudyan18@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-## 🧠 About Me
-
-I'm a software engineer who enjoys turning ideas into useful, polished products.
-
-I especially enjoy working on:
-
-- Full-stack web applications
-- Interactive and animated interfaces
-- Backend systems and APIs
-- Data-driven products
-- Developer tooling and automation
-
-I'm currently deepening my skills in **backend engineering, cloud infrastructure, DevOps, and modern application architecture.**
-
----
-
-## 🛠️ What I Work With
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind" />
-</p>
-
-### Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,prisma,supabase" />
-</p>
-
-### Tools & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UdyanDSuradkar&style=flat-square&color=111111" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## ✦ About
 
-### 🦠 Know Covid
+```text
+I like building things that feel good to use.
 
-**An interactive COVID-19 data observatory built to make complex global health data easier to explore.**
+From interactive frontends to full-stack applications,
+I'm interested in the entire journey:
 
-Built with React, Vite, SVG and Canvas.
+idea → interface → system → deployment
+```
 
-Highlights:
+Currently focused on building stronger foundations in:
 
-- Interactive global data visualization
-- World bubble map
-- Historical timeline exploration
-- Country comparison
-- Filtering and sorting
-- Interactive risk model
-- Command palette
-- Dark/light themes
-- Keyboard navigation
-- Offline data fallback
-
-[View Repository](https://github.com/UdyanDSuradkar/know-covid) ·
-[Live Demo](https://know-covid.vercel.app/)
+**Full-Stack Development · Backend Engineering · Databases · DevOps**
 
 ---
 
-### ✈️ Flyora
+## ⚡ My Stack
 
-**A modern travel agency dashboard focused on managing travel operations through a polished web interface.**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,nodejs,tailwind,postgres,supabase,prisma,docker,git,github&perline=6" />
+</p>
 
-Built with React, React Router, TypeScript and Tailwind CSS.
+<p align="center">
+  <sub>React · Next.js · TypeScript · JavaScript · Node.js · Tailwind · PostgreSQL · Supabase · Prisma · Docker · Git</sub>
+</p>
 
-[View Repository](https://github.com/UdyanDSuradkar/travel-agency-dashboard) ·
-[Live Demo](https://flyora-a-travel-agency.vercel.app/sign-in)
+---
+
+## ✦ Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🦠 Know Covid</h3>
+
+<p align="center">
+Interactive COVID-19 data visualization platform.
+</p>
+
+<p align="center">
+<a href="https://github.com/UdyanDSuradkar/know-covid">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=know-covid&theme=transparent&hide_border=true" />
+</a>
+</p>
+
+<p align="center">
+Interactive visualizations · World map · Timelines · Comparison · Filtering
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">✈️ Flyora</h3>
+
+<p align="center">
+A modern travel agency dashboard and web experience.
+</p>
+
+<p align="center">
+<a href="https://github.com/UdyanDSuradkar/travel-agency-dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=travel-agency-dashboard&theme=transparent&hide_border=true" />
+</a>
+</p>
+
+<p align="center">
+React · TypeScript · Tailwind · Routing · Dashboard UI
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌌 3D Portfolio</h3>
+
+<p align="center">
+An immersive portfolio experiment combining 3D and motion.
+</p>
+
+<p align="center">
+<a href="https://github.com/UdyanDSuradkar/my-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=my-portfolio&theme=transparent&hide_border=true" />
+</a>
+</p>
+
+<p align="center">
+Three.js · React Three Fiber · GSAP · Tailwind
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚧 More in Progress</h3>
+
+<p align="center">
+More ambitious projects are being built.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,linux&perline=4" />
+</p>
+
+<p align="center">
+Backend systems · APIs · Databases · Infrastructure
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌌 3D Portfolio
+## ✦ What I Like Building
 
-**An immersive portfolio experience combining 3D visuals, animation and modern frontend engineering.**
+<p align="center">
 
-Built with React, Three.js, React Three Fiber, GSAP and Tailwind CSS.
+`Interactive Interfaces`
 
-Highlights:
+`Full-Stack Applications`
 
-- Interactive 3D scenes
-- Scroll-triggered animations
-- Smooth camera transitions
-- Micro-interactions
-- Responsive design
-- Performance-conscious mobile experience
+`Data-Driven Products`
 
-[View Repository](https://github.com/UdyanDSuradkar/my-portfolio) ·
-[Live Demo](https://uds-portfolio.vercel.app/)
+`Animated Experiences`
+
+`Backend Systems`
+
+`Developer Tools`
+
+</p>
 
 ---
+
+## ◌ A Little More About My Work
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 01
+
+**Interface**
+
+I care about hierarchy, motion, responsiveness and the small details users actually notice.
+
+</td>
+
+<td align="center" width="25%">
+
+### 02
+
+**Systems**
+
+I enjoy understanding what happens behind the interface: APIs, databases, authentication and architecture.
+
+</td>
+
+<td align="center" width="25%">
+
+### 03
+
+**Experience**
+
+A technically correct product can still feel lifeless. I like fixing that.
+
+</td>
+
+<td align="center" width="25%">
+
+### 04
+
+**Growth**
+
+Constantly learning better ways to build, ship and maintain software.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=UdyanDSuradkar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdyanDSuradkar&layout=compact&hide_border=true&theme=transparent"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=UdyanDSuradkar&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## ✦ Let's Connect
+
+<p align="center">
+  <a href="https://uds-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/udyan-suradkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/UdyanDSuradkar">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:suradkarudyan18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>Building. Learning. Shipping.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111111,100:444444" width="100%"/>
+</p>
