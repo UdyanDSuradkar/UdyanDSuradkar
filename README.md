@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  I build modern digital experiences where
-  <br/>
-  <strong>engineering meets design.</strong>
-</p>
-
-<p align="center">
   <a href="https://uds-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -21,31 +15,7 @@
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UdyanDSuradkar&style=flat-square&color=111111" />
-</p>
-
 ---
-
-## ✦ About
-
-```text
-I like building things that feel good to use.
-
-From interactive frontends to full-stack applications,
-I'm interested in the entire journey:
-
-idea → interface → system → deployment
-```
-
-Currently focused on building stronger foundations in:
-
-**Full-Stack Development · Backend Engineering · Databases · DevOps**
-
----
-
-## ⚡ My Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,ts,js,nodejs,tailwind,postgres,supabase,prisma,docker,git,github&perline=6" />
@@ -145,15 +115,7 @@ Backend systems · APIs · Databases · Infrastructure
 
 ---
 
-
-
-## ✦ GitHub
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=UdyanDSuradkar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
-    height="165"
-  />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdyanDSuradkar&layout=compact&hide_border=true&theme=transparent"
     height="165"
@@ -179,10 +141,6 @@ Backend systems · APIs · Databases · Infrastructure
 </p>
 
 <br/>
-
-<p align="center">
-  <sub>Building. Learning. Shipping.</sub>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111111,100:444444" width="100%"/>
