@@ -5,24 +5,38 @@
 </p>
 
 <p align="center">
+  I build modern web experiences where <strong>engineering meets design.</strong>
+</p>
+
+<p align="center">
   <a href="https://uds-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/udyan-suradkar/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:suradkarudyan18@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<br/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,ts,js,nodejs,tailwind,postgres,supabase,prisma,docker,git,github&perline=6" />
 </p>
 
 <p align="center">
-  <sub>React · Next.js · TypeScript · JavaScript · Node.js · Tailwind · PostgreSQL · Supabase · Prisma · Docker · Git</sub>
+  <sub>
+    React · Next.js · TypeScript · JavaScript · Node.js · Tailwind · PostgreSQL · Supabase · Prisma · Docker · Git
+  </sub>
 </p>
+
+<p align="center">
+  <sub>Currently exploring backend architecture, DevOps & production-ready systems.</sub>
+</p>
+
+---
 
 ## ✦ Selected Work
 
@@ -33,17 +47,23 @@
 <h3 align="center">🦠 Know Covid</h3>
 
 <p align="center">
-Interactive COVID-19 data visualization platform.
+  Interactive COVID-19 data visualization platform.
 </p>
 
 <p align="center">
-<a href="https://github.com/UdyanDSuradkar/know-covid">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=know-covid&theme=transparent&hide_border=true" />
-</a>
+  <a href="https://github.com/UdyanDSuradkar/know-covid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=know-covid&theme=transparent&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-Interactive visualizations · World map · Timelines · Comparison · Filtering
+  Interactive visualizations · World map · Timelines · Comparison · Filtering
+</p>
+
+<p align="center">
+  <a href="https://github.com/UdyanDSuradkar/know-covid">
+    <img src="https://img.shields.io/badge/View%20Repository-111111?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </td>
@@ -53,63 +73,78 @@ Interactive visualizations · World map · Timelines · Comparison · Filtering
 <h3 align="center">✈️ Flyora</h3>
 
 <p align="center">
-A modern travel agency dashboard and web experience.
+  Modern travel agency dashboard and web experience.
 </p>
 
 <p align="center">
-<a href="https://github.com/UdyanDSuradkar/travel-agency-dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=travel-agency-dashboard&theme=transparent&hide_border=true" />
-</a>
+  <a href="https://github.com/UdyanDSuradkar/travel-agency-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=travel-agency-dashboard&theme=transparent&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-React · TypeScript · Tailwind · Routing · Dashboard UI
+  React · TypeScript · Tailwind · Routing · Dashboard UI
+</p>
+
+<p align="center">
+  <a href="https://github.com/UdyanDSuradkar/travel-agency-dashboard">
+    <img src="https://img.shields.io/badge/View%20Repository-111111?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </td>
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 <h3 align="center">🌌 3D Portfolio</h3>
 
 <p align="center">
-An immersive portfolio experiment combining 3D and motion.
+  Immersive portfolio experiment combining 3D, motion and interaction.
 </p>
 
 <p align="center">
-<a href="https://github.com/UdyanDSuradkar/my-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=my-portfolio&theme=transparent&hide_border=true" />
-</a>
+  <a href="https://github.com/UdyanDSuradkar/my-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UdyanDSuradkar&repo=my-portfolio&theme=transparent&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-Three.js · React Three Fiber · GSAP · Tailwind
+  Three.js · React Three Fiber · GSAP · Tailwind
+</p>
+
+<p align="center">
+  <a href="https://github.com/UdyanDSuradkar/my-portfolio">
+    <img src="https://img.shields.io/badge/View%20Repository-111111?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🚧 More in Progress</h3>
+<h3 align="center">🚧 What's Next</h3>
 
 <p align="center">
-More ambitious projects are being built.
+  More ambitious full-stack projects are on the way.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,linux&perline=4" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,linux&perline=4" />
 </p>
 
 <p align="center">
-Backend systems · APIs · Databases · Infrastructure
+  Backend systems · APIs · Databases · Infrastructure
 </p>
 
 </td>
+
 </tr>
 </table>
 
+<br/>
 
 <p align="center">
   <img
@@ -121,5 +156,12 @@ Backend systems · APIs · Databases · Infrastructure
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111111,100:444444" width="100%"/>
+  <strong>Build something. Learn something. Ship something.</strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111111,100:444444"
+    width="100%"
+  />
 </p>
