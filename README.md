@@ -118,20 +118,9 @@ Immersive portfolio experiment combining 3D, motion and interaction.
     Three.js · React Three Fiber · GSAP · Tailwind
   </sub>
 </p>
-
-<p align="center">
-  <a href="https://github.com/UdyanDSuradkar/my-portfolio">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
 </td>
 
 <td width="50%" valign="top">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/04-IN%20PROGRESS-111111?style=flat-square" />
-</p>
 
 <h3 align="center">What's Next?</h3>
 
