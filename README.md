@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Udyan 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer · Full-Stack Developer · </strong>
+  <strong>Software Engineer · Full-Stack Developer</strong>
 </p>
 
 <p align="center">
